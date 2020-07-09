@@ -1,2 +1,1 @@
-# PIZZALOVE
-first project KONECTNIKA
+# pizza
